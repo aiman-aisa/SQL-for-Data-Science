@@ -57,5 +57,6 @@ ORDER BY LastName DESC
 SELECT c.CustomerId, c.City, i.BillingCity
 FROM Customers c
 INNER JOIN Invoices i ON c.CustomerId = i.CustomerId
-WHERE c.City <> i.BillingCity
+WHERE c.City <> i.BillingCity  
+
 
