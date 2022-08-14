@@ -29,3 +29,4 @@ SELECT *
 FROM Invoices
 WHERE (CustomerID = 56 or CustomerID = 58) AND
 (Total BETWEEN '1.00' AND '5.00')
+
