@@ -7,9 +7,13 @@ SELECT * FROM Employees
 --Q2) Retrieve the FirstName, LastName, Birthdate, Address, City, and State from
 -- the Employees table.
 
-SELECT FirstName, LastName, Birthdate, Address, City, State 
-FROM Employees
-WHERE BirthDate = '1965-03-03 00:00:00'
+SELECT FirstName
+, LastName
+, BirthDate
+, Address
+, City
+, State
+FROM employees
 
 ------------------------------------------------------------------------------------
 
