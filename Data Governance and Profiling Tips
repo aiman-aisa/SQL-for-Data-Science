@@ -1,11 +1,16 @@
 Object Data Profile:  
-1) Number of rows  
-2) Table size  
-3) When the object was last updated  
+- Number of rows  
+- Table size  
+- When the object was last updated  
 
 Column Data Profile:  
-1) Column Data Type  
-2) Number of distinct values  
-3) Number of rows with NULL values  
-4) Descriptive statistics: maximum, average, and standard deviation for column values  
+- Column Data Type  
+- Number of distinct values  
+- Number of rows with NULL values  
+- Descriptive statistics: maximum, average, and standard deviation for column values  
+
+Governance Best Practices: 
+- Understand your read and write capabilities
+- Clean up your environments
+- Understand your promotion process
 
