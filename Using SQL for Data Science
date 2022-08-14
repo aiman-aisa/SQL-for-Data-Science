@@ -1,0 +1,42 @@
+Steps:
+
+1) Data Understanding
+- Most important step
+- Understanding relationship in your data
+- NULL values?
+- String values?
+- Dates and times?
+
+2) Business understanding
+- Go back and forth with the data understanding
+- Slowly wrap your head around the data
+
+3) Profiling Data
+- Get into the details of yoour data
+- Create a data model and map the fileds and tables you need
+- Consider joins and calculations
+- Understand any data quality or format issues
+
+4) Start with SELECT
+- start simple
+- any query begins with SELECT statement
+- add in special formatting
+- if using subqueries, start with the innermost query and work outward
+
+5) Test and Troubleshoot
+- do not wait until the end to test queries
+- test after each join or filter
+- Are you getting the results you expect?
+- start small and go step-by-step when troubleshooting query
+
+6) Format and Comment
+- Use correct formatting and indentation
+- Comment strategically
+- Clean code and comments help when you revisit or hand off code
+
+7) Review
+- Always review old queries
+- Business rules
+- Data changes
+- Date indicators
+- Work the problem from beginning to end
