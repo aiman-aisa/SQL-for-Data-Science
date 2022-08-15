@@ -22,7 +22,7 @@ Please check out the repository according to this:
   - Working with text strings
   - Working with data and time strings
   
-5) Profiling and Analyzing the Yelp Dataset  
+5) Profiling and Analyzing the Yelp Dataset (Final Project)  
   - There are two parts in this analysis 1) Data Profiling and Understanding, 2) Inferences and Analysis  
   - All skills learn in this course are applied in this project
 
